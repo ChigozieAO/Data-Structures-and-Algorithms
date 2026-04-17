@@ -6,4 +6,8 @@ Goldwasser
 # Progress Log
 
 - April 16
-  - Read 1.0 to 1.8
+  - Read chapter 1.0 to 1.8
+- April 17
+  - Read chapter 1.8.1 to 1.11
+  - started chapter one exercises
+  - did exercises R-1.1 to R-1.10
