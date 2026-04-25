@@ -11,3 +11,5 @@ Goldwasser
   - Read chapter 1.8.1 to 1.11
   - started chapter one exercises
   - did exercises R-1.1 to R-1.10
+- April 25
+  - did 4 projects from chapter one exercise projects
