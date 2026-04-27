@@ -11,3 +11,5 @@ Object Oriented Programming
   (1) Testing, (2) Implementation, (3) Testing and Debugging
 - self indentifies the instance upon which a method is
   invoked
+- a namespace is an abstraction that manages all the
+  identifies that are defined in a particular scope

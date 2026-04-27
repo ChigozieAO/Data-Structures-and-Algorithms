@@ -14,3 +14,5 @@ Goldwasser
 - April 25
   - did 4 projects from chapter one exercise projects
   - read chapter 2.1 through 2.4.3
+- April 27
+  - Read chapter 2.5 through 2.6(end of chapter 2)
