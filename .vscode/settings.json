@@ -1,1 +1,10 @@
-{ "python.REPL.enableREPLSmartSend": false }
+{
+  "python.REPL.enableREPLSmartSend": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.formatOnPaste": true,
+  "prettier.printWidth": 60,
+  "files.autoSave": "onFocusChange",
+  "notebook.defaultFormatter": "ms-python.black-formatter",
+  "workbench.iconTheme": "material-icon-theme"
+}
