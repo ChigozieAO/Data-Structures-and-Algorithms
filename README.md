@@ -16,3 +16,5 @@ Goldwasser
   - read chapter 2.1 through 2.4.3
 - April 27
   - Read chapter 2.5 through 2.6(end of chapter 2)
+- April 28 
+  - Exercise R-2.1 to R-2.8
